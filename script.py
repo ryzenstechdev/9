@@ -1,4 +1,4 @@
-# Mi faccio delle seghe!!!!!!!!!!!!
+# What's 9+10? [TEST SCRIPT FOR BOXIFY VM]
 #
 # by ryzenstech
 
